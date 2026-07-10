@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/jayt-21/dsa/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jayt-21/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/jayt-21/dsa/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
