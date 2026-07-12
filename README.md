@@ -17,9 +17,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayt-21/dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/jayt-21/dsa/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayt-21/dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
