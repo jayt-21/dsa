@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayt-21/dsa/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/jayt-21/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/jayt-21/dsa/tree/master/0228-summary-ranges) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayt-21/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jayt-21/dsa/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/jayt-21/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayt-21/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jayt-21/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
