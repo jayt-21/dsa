@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jayt-21/dsa/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/jayt-21/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jayt-21/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 ## Array
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jayt-21/dsa/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/jayt-21/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/jayt-21/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/jayt-21/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
