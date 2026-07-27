@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jayt-21/dsa/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/jayt-21/dsa/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/jayt-21/dsa/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jayt-21/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jayt-21/dsa/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jayt-21/dsa/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
