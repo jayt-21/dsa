@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jayt-21/dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/jayt-21/dsa/tree/master/0228-summary-ranges) |
+| [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayt-21/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayt-21/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayt-21/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayt-21/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jayt-21/dsa/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
