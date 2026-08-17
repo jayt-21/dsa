@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jayt-21/dsa/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/jayt-21/dsa/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jayt-21/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jayt-21/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jayt-21/dsa/tree/master/0125-valid-palindrome) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jayt-21/dsa/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/jayt-21/dsa/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/jayt-21/dsa/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jayt-21/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jayt-21/dsa/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/jayt-21/dsa/tree/master/0074-search-a-2d-matrix) |
