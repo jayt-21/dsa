@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jayt-21/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayt-21/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -143,4 +144,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
