@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jayt-21/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jayt-21/dsa/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/jayt-21/dsa/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jayt-21/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jayt-21/dsa/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jayt-21/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jayt-21/dsa/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jayt-21/dsa/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/jayt-21/dsa/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/jayt-21/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Math
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/jayt-21/dsa/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jayt-21/dsa/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jayt-21/dsa/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jayt-21/dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
