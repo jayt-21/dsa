@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayt-21/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jayt-21/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayt-21/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jayt-21/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayt-21/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jayt-21/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jayt-21/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jayt-21/dsa/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/jayt-21/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
