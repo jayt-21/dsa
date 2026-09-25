@@ -1,33 +1,22 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
+    int maxi=0,st=0,mxl=0;
+    int n=s.size();
     unordered_map<char,int> map;
-    int i=0;
-    int j=0;
-    int maxi=0;
-    int mxl=1;
-    while(j<s.size())
+    for(int i=0;i<n;i++)
     {
-        char ch=s[j];
-        map[ch]++;
-        if(map[ch]>maxi)
-        {
-            maxi=map[ch];
-        }
-        int l=j-i+1;
-        if(maxi+k>=l)
-        {
-        mxl=max(mxl,l);   
-        }
-        else
-        {
-            //shrink
-                char x=s[i];
-                map[x]--;
-                i++;
-        }
-        j++;
+    map[s[i]]++;
+    maxi=max(maxi,map[s[i]]);
+    int win=i-st+1;
+    while(maxi+k<win)
+    {
+        map[s[st]]--;
+        st++;
+        win=i-st+1;
     }
-    return mxl;
+    mxl=max(mxl,win);
+    } 
+    return mxl;   
     }
 };
