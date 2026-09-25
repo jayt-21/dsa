@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jayt-21/dsa/tree/master/0228-summary-ranges) |
 | [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayt-21/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayt-21/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jayt-21/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayt-21/dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayt-21/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayt-21/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayt-21/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayt-21/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayt-21/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
 | ------- |
