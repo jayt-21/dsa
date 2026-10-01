@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayt-21/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jayt-21/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/jayt-21/dsa/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/jayt-21/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jayt-21/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jayt-21/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jayt-21/dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jayt-21/dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
 ## Monotonic Stack
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/jayt-21/dsa/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jayt-21/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
