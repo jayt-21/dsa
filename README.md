@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/jayt-21/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/jayt-21/dsa/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/jayt-21/dsa/tree/master/0856-score-of-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayt-21/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jayt-21/dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jayt-21/dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
+| [0856-score-of-parentheses](https://github.com/jayt-21/dsa/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayt-21/dsa/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/jayt-21/dsa/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
