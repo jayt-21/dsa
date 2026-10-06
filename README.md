@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jayt-21/dsa/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/jayt-21/dsa/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/jayt-21/dsa/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayt-21/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jayt-21/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jayt-21/dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/jayt-21/dsa/tree/master/0143-reorder-list) |
 | [0856-score-of-parentheses](https://github.com/jayt-21/dsa/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayt-21/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -236,4 +238,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayt-21/dsa/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/jayt-21/dsa/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayt-21/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayt-21/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
