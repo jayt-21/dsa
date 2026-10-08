@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayt-21/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jayt-21/dsa/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/jayt-21/dsa/tree/master/0213-house-robber-ii) |
+| [0337-house-robber-iii](https://github.com/jayt-21/dsa/tree/master/0337-house-robber-iii) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
 | [3693-climbing-stairs-ii](https://github.com/jayt-21/dsa/tree/master/3693-climbing-stairs-ii) |
 ## Stack
@@ -188,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/jayt-21/dsa/tree/master/0337-house-robber-iii) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayt-21/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/jayt-21/dsa/tree/master/0337-house-robber-iii) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayt-21/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/jayt-21/dsa/tree/master/0337-house-robber-iii) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayt-21/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayt-21/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Manacher
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayt-21/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## DP on Trees
+|  |
+| ------- |
+| [0337-house-robber-iii](https://github.com/jayt-21/dsa/tree/master/0337-house-robber-iii) |
 <!---LeetCode Topics End-->
