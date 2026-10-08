@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayt-21/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3467-transform-array-by-parity](https://github.com/jayt-21/dsa/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jayt-21/dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3693-climbing-stairs-ii](https://github.com/jayt-21/dsa/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayt-21/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jayt-21/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayt-21/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jayt-21/dsa/tree/master/0152-maximum-product-subarray) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
+| [3693-climbing-stairs-ii](https://github.com/jayt-21/dsa/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
