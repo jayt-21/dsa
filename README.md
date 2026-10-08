@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayt-21/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jayt-21/dsa/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/jayt-21/dsa/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/jayt-21/dsa/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/jayt-21/dsa/tree/master/0228-summary-ranges) |
 | [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jayt-21/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayt-21/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/jayt-21/dsa/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/jayt-21/dsa/tree/master/0213-house-robber-ii) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
 | [3693-climbing-stairs-ii](https://github.com/jayt-21/dsa/tree/master/3693-climbing-stairs-ii) |
 ## Stack
