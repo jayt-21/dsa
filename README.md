@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/jayt-21/dsa/tree/master/0228-summary-ranges) |
 | [0560-subarray-sum-equals-k](https://github.com/jayt-21/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/jayt-21/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayt-21/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayt-21/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jayt-21/dsa/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/jayt-21/dsa/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/jayt-21/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0646-maximum-length-of-pair-chain](https://github.com/jayt-21/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [3467-transform-array-by-parity](https://github.com/jayt-21/dsa/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jayt-21/dsa/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/jayt-21/dsa/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/jayt-21/dsa/tree/master/0337-house-robber-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/jayt-21/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1406-stone-game-iii](https://github.com/jayt-21/dsa/tree/master/1406-stone-game-iii) |
 | [3693-climbing-stairs-ii](https://github.com/jayt-21/dsa/tree/master/3693-climbing-stairs-ii) |
 ## Stack
@@ -250,9 +253,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/jayt-21/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jayt-21/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## DP on Trees
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/jayt-21/dsa/tree/master/0337-house-robber-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/jayt-21/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
